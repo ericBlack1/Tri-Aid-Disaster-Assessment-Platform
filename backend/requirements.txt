@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+pydantic
+python-dotenv
+aiohttp
+httpx
+alembic
+celery
+redis
+black
+isort
+flake8
+pytest
